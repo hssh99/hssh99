@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hssh99&label=Profile%20views&color=0e75b6&style=flat" alt="hssh99" /> </p>
 
-- 🌱 I’m currently learning **Go, Node.js**
+- 🌱 I’m currently learning **Node.js and backend development**
 
-- 💬 Ask me about **Next.js, React.js**
+- 💬 Ask me about **Next.js**
 
 - 📫 How to reach me **harshalshirke9999@gmail.com**
 
