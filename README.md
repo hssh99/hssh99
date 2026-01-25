@@ -3,16 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hssh99&label=Profile%20views&color=0e75b6&style=flat" alt="hssh99" /> </p>
 
-<h3 align="center>About Me</h3>
-  
+<h3 align="center">About Me</h3>
+ 
 ```python
+
 def about_me():
-  return f"
-  - 🌱 working on improving my skills
-  - ⚡ i code in .js, .ts, .py, .cs
-  - 💬 ask me about nextjs, react
-  - 📫 contact: harshalshirke9999@gmail.com
-  "
+    return f"
+    - 🌱 working on improving my skills
+    - ⚡ i code in .js, .ts, .py, .cs
+    - 💬 ask me about nextjs, react
+    - 📫 contact: harshalshirke9999@gmail.com
+    "
 ```
 
 <h3 align="left">Connect with me:</h3>
