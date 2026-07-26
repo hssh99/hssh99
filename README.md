@@ -20,7 +20,7 @@ I build **performant web platforms and scalable apps** — with an eye for perfo
 
 ▸ Currently working as **SDE-2** @ **[Procedure](https://github.com/proceduretech)** · product engineering with AI<br/>
 ▸ **Kudzu Infotech** · built a **UIDAI-compliant documents flow** and **GIGW accessibility** upgrades for a government platform<br/>
-▸ **Mirae Asset Capital Markets** · built martech web platforms — **[mStock](https://www.mstock.com)** and **[Mirae Asset Partners](https://www.miraeassetpartners.com)**<br/>
+▸ **Mirae Asset Capital Markets** · built martech web platforms<br/>
 
 <p>
   <strong>Tech Stack ⚙️</strong>
